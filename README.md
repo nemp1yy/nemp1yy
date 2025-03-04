@@ -29,9 +29,3 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nemp1yy&color=blue&style=flat-square" alt="Просмотры профиля" />
-</p>
