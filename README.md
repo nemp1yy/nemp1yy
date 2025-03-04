@@ -3,7 +3,7 @@
 
 ---
 
-### 🔧 Технологии и инструменты
+### 🔧 Technologies and Instruments
 <p align="left">
   <!-- Иконки можно взять с https://simpleicons.org/ -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Статистика
+### 📈 Statistics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemp1yy&show_icons=true&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemp1yy&layout=compact&theme=dark&hide_border=true" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🤝 Связь со мной
+### 🤝 Contact with me
 <p align="center">
   <a href="mailto:alex0svnh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
