@@ -13,7 +13,7 @@
 </p>
 
 ### 📈 Statistics
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemp1yy&show_icons=true&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemp1yy&layout=compact&theme=dark&hide_border=true" />
 </p>
