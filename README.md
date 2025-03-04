@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, im nemp1yy</h1>
-<h3 align="center">🚀 Student</h3>
+<h1 align="center">👋 Hi, i am nemp1yy</h1>
+<h3 align="center">Student</h3>
 
 ---
 
