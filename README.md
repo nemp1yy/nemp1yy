@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Hi%2C%20I%27m%20nemp1yy!&fontSize=34&fontAlignY=35" alt="header" />
-</p>
+hello?
 
 <p align="center">
   <a href="https://github.com/nemp1yy" title="GitHub">
