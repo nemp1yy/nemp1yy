@@ -47,3 +47,7 @@ I like making my workflow more efficient and exploring new dev tools.
 
 
 <img src="https://raw.githubusercontent.com/RimuEirnarn/RimuEirnarn/main/public/furina-chibi.webp" width="180" align="right"/>
+
+<p>
+  <b>Thanks for visiting!</b> 🚦
+</p>
