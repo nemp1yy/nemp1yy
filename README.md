@@ -46,6 +46,4 @@ I like making my workflow more efficient and exploring new dev tools.
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RimuEirnarn/RimuEirnarn/main/public/furina-chibi.webp" width="240" alt="furina chibi"/>
-</p>
+<img src="https://raw.githubusercontent.com/RimuEirnarn/RimuEirnarn/main/public/furina-chibi.webp" width="240" align="right"/>
