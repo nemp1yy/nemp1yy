@@ -1,72 +1,53 @@
-<h3 align="center">Student</h3>
-
----
-
-### 🔧 Technologies and Instruments
-<p align="left">
-  <!-- Иконки можно взять с https://simpleicons.org/ -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-F05032?style=for-the-badge&logo=cpp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQlite-316192?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 📈 Statistics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemp1yy&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemp1yy&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<!-- Приветствие -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Привет!%20Я%20nemp1yy%20👋&fontSize=32&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Hi%2C%20I%27m%20nemp1yy!&fontSize=34&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/nemp1yy">
-    <img src="https://img.shields.io/github/followers/nemp1yy?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/nemp1yy" title="GitHub">
+    <img src="https://img.shields.io/github/followers/nemp1yy?label=GitHub&style=social&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://t.me/yourtelegram" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/yourvk" title="VK">
+    <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://discordapp.com/users/yourdiscord" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Обо мне
+## 👋 About me
 
-Привет! Меня зовут **nemp1yy**.  
-Я занимаюсь конфигурированием и автоматизацией, люблю настраивать среды и делиться своими конфигами.
+I’m **nemp1yy** — a fan of clean configs and automation.  
+I like making my workflow more efficient and exploring new dev tools.
 
-- 💡 Люблю учиться новому и экспериментировать с инструментами разработки
-- ⚡ Увлекаюсь DevOps и автоматизацией
-- 🌱 Сейчас изучаю новые подходы к организации рабочего процесса
-
----
-
-## 🛠️ Технологии и инструменты
-
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-<!-- Добавьте любые другие инструменты, которые используете -->
+- 🔧 Always tweaking my setup for the best experience
+- 🧑‍💻 Interested in DevOps, scripting, and database tech
+- 🚀 Learning new things every day
 
 ---
 
-## 📂 Репозитории
+## 🛠️ Tech stack & Tools
 
-- [Конфиги для VSCode](https://github.com/nemp1yy/vscode-config)
-- [Мои bash-скрипты](https://github.com/nemp1yy/bash-scripts)
-- [Docker-образы](https://github.com/nemp1yy/docker-images)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=yellow" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-333?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
 
 ---
 
-## 📈 Статистика
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemp1yy&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -75,13 +56,6 @@
 
 ---
 
-## 📫 Контакты
-
-- Email: your.email@example.com
-- Telegram: [@yourusername](https://t.me/yourusername)
-
----
-
 <p align="center">
-  <b>Спасибо за визит!</b> 😊
+  <b>Thanks for visiting!</b> 🚦
 </p>
