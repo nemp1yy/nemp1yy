@@ -4,13 +4,13 @@
   <a href="https://github.com/nemp1yy" title="GitHub">
     <img src="https://img.shields.io/github/followers/nemp1yy?label=GitHub&style=social&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://t.me/yourtelegram" title="Telegram">
+  <a href="https://t.me/hoshimach1" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://vk.com/yourvk" title="VK">
+  <a href="https://vk.com/hoshimach1" title="VK">
     <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" alt="VK"/>
   </a>
-  <a href="https://discordapp.com/users/yourdiscord" title="Discord">
+  <a href="https://discord.gg/ZdbYhAMzMg" title="Discord">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
