@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" alt="VK"/>
   </a>
   <a href="https://discord.gg/ZdbYhAMzMg" title="Discord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord server"/>
   </a>
 </p>
 
