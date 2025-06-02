@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=yellow" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-333?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
