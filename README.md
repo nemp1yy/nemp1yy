@@ -1,4 +1,4 @@
-hello?
+<h1 align="center">hello?</h1>
 
 <p align="center">
   <a href="https://github.com/nemp1yy" title="GitHub">
@@ -17,19 +17,6 @@ hello?
 
 ---
 
-## 👋 About me
-
-I’m **nemp1yy** — a fan of clean configs and automation.  
-I like making my workflow more efficient and exploring new dev tools.
-
-- 🔧 Always tweaking my setup for the best experience
-- 🧑‍💻 Interested in DevOps, scripting, and database tech
-- 🚀 Learning new things every day
-
----
-
-## 🛠️ Tech stack & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=yellow" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-333?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
@@ -42,6 +29,17 @@ I like making my workflow more efficient and exploring new dev tools.
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
+
+---
+
+## 👋 About me
+
+I’m **nemp1yy** — a fan of clean configs and automation.  
+I like making my workflow more efficient and exploring new dev tools.
+
+- 🔧 Always tweaking my setup for the best experience
+- 🧑‍💻 Interested in DevOps, scripting, and database tech
+- 🚀 Learning new things every day
 
 ---
 
