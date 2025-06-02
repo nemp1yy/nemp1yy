@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C++-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQlite-316192?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📈 Statistics
