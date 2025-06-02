@@ -45,6 +45,7 @@ I like making my workflow more efficient and exploring new dev tools.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nemp1yy&theme=github-dark&hide_border=true"/>
 </p>
 
+---
 
 <img src="https://raw.githubusercontent.com/RimuEirnarn/RimuEirnarn/main/public/furina-chibi.webp" width="180" align="right"/>
 
