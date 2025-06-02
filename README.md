@@ -29,10 +29,9 @@
 </p>
 
 ---
+👋 About me
 
-## 👋 About me
-
-I’m **nemp1yy** — a fan of clean configs and automation.  
+I’m **nemp1yy**
 I like making my workflow more efficient and exploring new dev tools.
 
 - 🔧 Always tweaking my setup for the best experience
@@ -41,15 +40,9 @@ I like making my workflow more efficient and exploring new dev tools.
 
 ---
 
-## 📊 Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nemp1yy&show_icons=true&theme=github_dark&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nemp1yy&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
-<p align="center">
-  <b>Thanks for visiting!</b> 🚦
-</p>
+<img src="https://raw.githubusercontent.com/RimuEirnarn/RimuEirnarn/main/public/furina-chibi.webp" width="200"/>
