@@ -29,10 +29,10 @@
 
 I like making my workflow more efficient and exploring new dev tools.
 
-- 🔧 Always tweaking my setup for the best experience
-- 🧑‍💻 Interested in DevOps, scripting, and database tech
-- 🚀 Learning new things every day
-
+- Always tweaking my setup for the best experience
+- Interested in DevOps, scripting, and database tech
+- Learning new things every day
+- I study UX design and enjoy creating user-friendly and intuitive interfaces.
 ---
 
 <p align="center">
